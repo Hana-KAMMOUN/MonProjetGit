@@ -1,2 +1,6 @@
 Bonjour !
 Ceci est le 1er TP sur GIT réalisé par Hana.
+étape 17
+Optimisation étape 1
+Optimisation étape 2
+Optimisation étape 3
